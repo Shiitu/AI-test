@@ -94,29 +94,29 @@ h6,
     transition: .5s;
 }
 .usecasecard1 {
-    background-image: url('../img/realestate.png');
+    background-image: url('../img/reall\ \(1\).png');
     /* color: white; */
 }
 .usecasecard2 {
-    background-image: url('../img/manu.png');
+    background-image: url('../img/manufa.png');
 }
 .usecasecard3 {
-    background-image: url('../img/edu.png');
+    background-image: url('../img/education.png');
 }
 .usecasecard4 {
-    background-image: url('../img/fin.png');
+    background-image: url('../img/finance.png');
 }
 .usecasecard5 {
-    background-image: url('../img/ssma.png');
+    background-image: url('../img/ssmaa.png');
 }
 .usecasecard6 {
-    background-image: url('../img/customer.png');
+    background-image: url('../img/customers.png');
 }
 .usecasecard7 {
-    background-image: url('../img/retail.png');
+    background-image: url('../img/retails.png');
 }
 .usecasecard8 {
-    background-image: url('../img/logi.png');
+    background-image: url('../img/logiss.png');
 }
 .btn-primary,
 .btn-secondary {
