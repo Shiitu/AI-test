@@ -118,6 +118,11 @@ h6,
 .usecasecard8 {
     background-image: url('../img/logiss.png');
 }
+
+.courty {
+    margin-top: 2%;
+}
+
 .btn-primary,
 .btn-secondary {
     color: #FFFFFF;
